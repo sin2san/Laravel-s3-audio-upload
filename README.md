@@ -1,7 +1,7 @@
-<h3>A Simple Laravel application for S3 Video Upload</h3>
+<h3>A Simple Laravel application for S3 Audio Upload</h3>
 
-<p>An authenticated user can upload video, where admin can manage users & videos. Videos will be stored in S3.<br />
-Also user can rate videos.</p>
+<p>An authenticated user can upload audio, where admin can manage users & audios. Audios will be stored in S3.<br />
+Also user can rate audios.</p>
 <Strong>To Install The System Follow The Below Instructions</strong><br>
 <ul>
 <li>Clone repository to local machine.</li>
